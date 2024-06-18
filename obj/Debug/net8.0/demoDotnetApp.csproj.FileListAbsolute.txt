@@ -28,3 +28,4 @@ C:\Users\jomercurio\Documents\demo\demoDotnetApp\obj\Debug\net8.0\refint\demoDot
 C:\Users\jomercurio\Documents\demo\demoDotnetApp\obj\Debug\net8.0\demoDotnetApp.pdb
 C:\Users\jomercurio\Documents\demo\demoDotnetApp\obj\Debug\net8.0\demoDotnetApp.genruntimeconfig.cache
 C:\Users\jomercurio\Documents\demo\demoDotnetApp\obj\Debug\net8.0\ref\demoDotnetApp.dll
+C:\Users\jomercurio\Documents\demo\demoDotnetApp\obj\Debug\net8.0\demoDotnetApp.sourcelink.json
